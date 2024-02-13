@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.card{
+    margin-left: 50px;
+}
+.t-container{
+    display: flex;
+    padding-left: 15px;
+    /* color: blue; */
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+.w-container{
+padding-top: 15px;
+    justify-content: center;
+    justify-content: space-between;
+}
+.p-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
